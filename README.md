@@ -1,4 +1,4 @@
-NTUST-EE 2024 Fall Digital System Design Practicum
+NTUST-EE 2024 Fall Digital System Design Practicum  
 (數位系統設計實習)
 -
 ###### This is the *NTUST-EE 2024 Fall Digital System Design Practicum* course content. 
