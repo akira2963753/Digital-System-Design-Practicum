@@ -2,7 +2,8 @@ NTUST-EE 2024 Fall Digital System Design Practicum
 (數位系統設計實習)
 -
 ###### This is the course content for the *NTUST-EE 2024 Fall Digital System Design Practicum*. 
-###### The code on the GitHub repository is provided for reference only. If you encounter any issues, feel free to contact: "harry2963753@gmail.com". 
+###### The code on the GitHub repository is provided for reference only.   
+###### If you encounter any issues, feel free to contact: "harry2963753@gmail.com".   
 ###### This course will use Intel Quartus Prime and FPGA to complete the final project: an FPGA-based game.
 
 #### Syllabus  
